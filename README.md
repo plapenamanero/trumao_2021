@@ -32,6 +32,7 @@ The notebooks was developed using the following packages:
 * NumPy (1.19.5)
 * Matplotlib (3.2.2)
 * SciPy (1.4.1)
+* IPython (5.5.0)
 
 Other packages from Python's standard library were also used.
 

@@ -8,7 +8,7 @@
 
 
 
-This repository contains data and analysis tools for the article **Experimental investigation on the influence of oven drying on volcanisk ash derived soils geotecthnical properties**.
+This repository contains data and data analysis tools for the article **Experimental investigation on the influence of oven drying on volcanic ash derived soils geotecthnical properties**.
 
 ### Publication information
 
@@ -18,7 +18,7 @@ This repository contains data and analysis tools for the article **Experimental 
 
 ## Notebook for data analysis
 
-Data analysis was performed using Google Colab (Google's implementation of Jupyter notebooks). Although the notebook can be run on any Jupyter compatible service or locally, opening it in Google Colab is encouraged as it has all dependecies already installed and it has been developed and tested using this platform.
+Data analysis was performed using Google Colab (Google's implementation of Jupyter notebooks). Although the notebook can be run on any Jupyter compatible service or locally, opening it in Google Colab is encouraged as it has all dependecies already installed and the notebook has been developed and tested using this platform.
 
 To open it directly on Colab, follow the link below.
 
@@ -39,12 +39,12 @@ Other packages from Python's standard library were also used.
 ## Data access
 
 
-All the neccesary data to replicate the work is included in the file *data.xlsx*. The notebook ins configured to download ir directly from this Github's repository, so it is not needed to download it separatley
+All the neccesary data to replicate the work is included in the file *data.xlsx*. The notebook is configured to download data file directly from this Github's repository, so there is no need to download it separately.
 
 ## Contributors
 
 
-The complete author list for this investigations is stated below:
+The complete author list for this investigation is stated below:
 
 * Romero-Mancilla, Pablo Eduardo
 * Montenegro-Cooper, José Miguel

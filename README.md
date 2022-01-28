@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/geolabsoft/mecsuelos/main/logo_ucsc_plain.svg" alt="Logo UCSC" width="350"/>
 
 
-# Experimental investigation on the influence of oven drying on volcanic ash derived soils geotecthnical properties [[paper]](https://www.ucsc.cl)
+# Experimental investigation on the influence of oven drying on volcanic ash derived soils geotecthnical properties [[Link to the paper]](https://www.mdpi.com/1397736)
 
 
 
@@ -12,9 +12,9 @@ This repository contains data and data analysis tools for the article **Experime
 
 ### Publication information
 
-<!--
-#TODO: Complete with the information of the journal and a link to the paper in the journal's website
--->
+The article is published in the Open-Access journal [Applied Sciences](https://www.mdpi.com/journal/applsci).
+
+It can be accesses in the following link: [https://www.mdpi.com/1397736](https://www.mdpi.com/1397736)
 
 ## Notebook for data analysis
 
@@ -61,8 +61,4 @@ All the code in this repository is licensed under MIT license (See *LICENSE* fil
 
 ## Citing
 
-To cite this article or the code in this repository please use:
-
-<!--
-#TODO: Complete with the information of the journal and a link to the paper in the journal's website
--->
+To cite this article or the code in this repository please use the data available in the publication website ([link](https://www.mdpi.com/1397736))
